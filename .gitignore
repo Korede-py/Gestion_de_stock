@@ -1,1 +1,7 @@
-SGB/.vscode/settings.json
+.vscode
+# Les fichiers générés par Maven
+target/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
